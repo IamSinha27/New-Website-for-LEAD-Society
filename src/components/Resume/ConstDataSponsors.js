@@ -33,7 +33,7 @@ const Sponsor = [
     {
         name:'Postman',
         desc:'Sponsor Desc',
-        image:"https://www.marcus-povey.co.uk/wp-content/866-8665831_the-postman-logo-is-available-in-png-svg.png.jpeg",
+        image:"https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png",
     },
     {
         name:'Visual Bulletin',
